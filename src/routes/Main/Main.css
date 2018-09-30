@@ -1,0 +1,9 @@
+.add-note-btn {
+  /* position */
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  /* shape */
+  border-radius: 10;
+  background-color: var(--main-txt-color);
+}
